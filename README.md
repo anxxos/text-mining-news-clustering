@@ -1,6 +1,8 @@
 # Clustering de noticias
 ## Recuperación de información y minería de texto
 
+###### Marzo 2019
+
 ### Extracto
 En esta práctica se ha abordado el problema de implementar un programa de procesado de noticias en la Red, 
 mediante las librerías de procesamiento de lenguaje natural spaCy y NLTK, 
